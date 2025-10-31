@@ -10,6 +10,9 @@
         "locale": "cpp",
         "string_view": "cpp",
         "queue": "cpp",
-        "stack": "cpp"
+        "stack": "cpp",
+        "list": "cpp",
+        "array": "cpp",
+        "forward_list": "cpp"
     }
 }
