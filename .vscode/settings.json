@@ -1,5 +1,15 @@
 {
     "files.associations": {
-        "iomanip": "cpp"
+        "iomanip": "cpp",
+        "iostream": "cpp",
+        "__split_buffer": "cpp",
+        "deque": "cpp",
+        "string": "cpp",
+        "vector": "cpp",
+        "istream": "cpp",
+        "locale": "cpp",
+        "string_view": "cpp",
+        "queue": "cpp",
+        "stack": "cpp"
     }
 }
