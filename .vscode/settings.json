@@ -13,6 +13,9 @@
         "stack": "cpp",
         "list": "cpp",
         "array": "cpp",
-        "forward_list": "cpp"
+        "forward_list": "cpp",
+        "__tree": "cpp",
+        "map": "cpp",
+        "set": "cpp"
     }
 }
